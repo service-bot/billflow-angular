@@ -1,0 +1,25 @@
+{
+  "name": "billflow-angular",
+  "version": "1.0.0",
+  "description": "Billflow Angular is an NPM package that provides easy integration with Billflow Embeds",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/service-bot/billflow-angular.git"
+  },
+  "keywords": [
+    "billflow",
+    "billflow embeddables",
+    "billflow stripe embeds",
+    "billflow angular"
+  ],
+  "author": "Billflow",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/service-bot/billflow-angular/issues"
+  },
+  "homepage": "https://github.com/service-bot/billflow-angular#readme"
+}
